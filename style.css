@@ -1,0 +1,32 @@
+body {
+  background-color: #000121;
+  font-family: 'Lato', sans-serif;
+}
+
+table {
+  background-color: #fff;
+  border-radius: 10px;
+  padding-top: 20%;
+
+}
+
+h1 {
+  color: #fff;
+  font-weight: 100;
+  margin-left: 35%;
+  margin-top: 15%;
+  font-size: 25px;
+}
+
+table h2 {
+  font-weight: 300;
+  margin: 0;
+  font-size: 15px;
+}
+
+input {
+  float: right;
+  background-color: #e8e8e8;
+  border: 1px solid #c6c6c6;
+  border-radius: 5px;
+}
